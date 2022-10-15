@@ -8,7 +8,7 @@ This exercise showcased the use of regression models for prediction
 
 This exercise utilised the data from the Abalones Dataset from the Data Science Dojo Repository <https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Abalone>
 
-The codes tested and compared various Regression models and Random Forest for this prediction problem.
+The codes tested and compared various Regression models and Random Forest for this prediction problem. The dataset is available [here](abalone_data.csv)
 
 Analysis were carried out in stages
 
